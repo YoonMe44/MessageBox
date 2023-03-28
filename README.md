@@ -1,13 +1,13 @@
-自分で React プロジェクトを起動する場合は、このコマンドを実行します
+### 自分で React プロジェクトを起動する場合は、このコマンドを実行します
 # 1.project create 
-### `npx create-react-app project-name` 
+# `npx create-react-app project-name` 
 
-このリポジトリをプルする場合は、このコマンドを実行します
+### このリポジトリをプルする場合は、このコマンドを実行します
 # 1.npm start
-### `npm install`
+# `npm install`
 
 # 2.npm package running
-### `npm start` 
+# `npm start` 
 
 Snippets
 rce  -> react component export  -> Class
